@@ -54,7 +54,7 @@
 
 ### 1. Clone the repository
 
-    git clone your-repository-url
+    git clone https://github.com/SyedRahadHossain/vehicle-rental-system.git
     cd project-folder
 
 ### 2. Install dependencies
